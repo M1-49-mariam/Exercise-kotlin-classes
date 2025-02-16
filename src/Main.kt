@@ -1,5 +1,8 @@
 fun main() {
     val myBook = Book()
+    myBook.title = "title"
+    myBook.author = "author"
+    myBook.yearPublished = 2016
 
 }
 
